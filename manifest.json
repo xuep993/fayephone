@@ -1,9 +1,10 @@
+
 {
-  "name": "SillyPhone Cloud",
-  "display_name": "SillyPhone Cloud Integration",
-  "version": "1.0.0",
-  "author": "User",
-  "description": "Provides a bridge between cloud-hosted phone interfaces and SillyTavern, handling image uploads and context integration.",
-  "repo": "https://github.com/your-username/sillyphone-extension",
-  "loading_order": 100
+    "name": "SillyPhone Cloud",
+    "display_name": "SillyPhone Cloud Integration",
+    "version": "1.0.2",
+    "author": "Faye",
+    "description": "A cloud-hosted phone interface for SillyTavern. Auto-replaces <fphone> tags.",
+    "repo": "https://github.com/xuep993/fayephone",
+    "loading_order": 100
 }
